@@ -1,0 +1,6 @@
+#  Latest commit fa119d9 on May 11, 2018
+
+numpy==1.14.0
+tensorflow==1.5.0
+scipy==1.0.1
+faiss-cpu==1.6.3
